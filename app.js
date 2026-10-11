@@ -4,3 +4,4 @@ function sum(){
     let c= x+y;
 }
 console.log(sum());
+ alert("welcom to site");
