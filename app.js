@@ -3,3 +3,4 @@ function sum(){
     let y=10;
     let c= x+y;
 }
+console.log(sum());
